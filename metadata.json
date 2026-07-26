@@ -1,0 +1,6 @@
+{
+  "name": "Lighthouse Clone",
+  "description": "A web debugger and real-time auditing dashboard using Gemini to analyze websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
